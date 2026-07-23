@@ -1,0 +1,11 @@
+{
+  "name": "my-second-pipeline",
+  "version": "1.0.0",
+  "description": "Node.js application for Jenkins Pipeline",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Samir Kotwal",
+  "license": "MIT"
+}
